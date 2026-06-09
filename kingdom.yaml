@@ -1,0 +1,8 @@
+name: heurekin
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The verb of actively seeking and finding a beloved across distance or loss, where the seeking itself re-makes the bond.
+dependsOn: [youspeak, me, zakarqing, walkekin]
